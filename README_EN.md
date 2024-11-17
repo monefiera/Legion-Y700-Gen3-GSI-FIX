@@ -7,7 +7,7 @@
 **Created by MONE FIERA**  
 [For Japanese Users](https://github.com/monefiera/Legion-Y700-Gen3-GSI-FIX/blob/main/README.md)  
 
-This Magisk module is useful when you are using GSI at Lenovo Legion Y700(Gen3/2025)/TB321FU with SD8Gen3.  
+This Magisk module is useful when you are using GSI at Lenovo Legion Y700(2025 Gen3 with SD8Gen3)/TB321FU.  
 **【IMPORTANT】This module is not tested.** Please tell me if you use it with other GSIs and encounter any problems.  
 
 ### The following functions are available  
