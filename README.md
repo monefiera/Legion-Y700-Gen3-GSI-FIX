@@ -7,7 +7,7 @@
 **Created by MONE FIERA**  
 [For English Users](https://github.com/monefiera/Legion-Y700-Gen3-GSI-FIX/blob/main/README_EN.md)  
 
-Lenovo Legion Y700(Gen3 with SD8Gen3)にGSIを導入した場合に便利なMagiskモジュールです。  
+Lenovo Legion Y700(Gen3/2025 with SD8Gen3)/TB321FUにGSIを導入した場合に便利なMagiskモジュールです。  
 **【重要】このモジュールはまだ未検証です。** 不具合が発生した場合はお知らせください。  
 
 以下の機能を備えています。  
