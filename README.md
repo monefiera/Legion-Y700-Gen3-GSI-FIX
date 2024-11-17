@@ -18,7 +18,7 @@ Lenovo Legion Y700(Gen3 with SD8Gen3)にGSIを導入した場合に便利なMagi
 
 既知の不具合  
 ・デフォルトのリフレッシュレートは120fps固定となっています。  
-　変更したい場合[SmartHertz](https://play.google.com/store/apps/details?id=com.naprzod.smarthertz)をはじめとした外部のアプリの使用を推奨します。
+　変更したい場合[SmartHertz](https://play.google.com/store/apps/details?id=com.naprzod.smarthertz)をはじめとした外部のアプリの使用を推奨します。  
 ・モジュールをアンインストールしても無効化したアプリは再有効化されません。  
 　必要な場合(無いとは思いますが…)手動での復旧をお願いします。  
 
